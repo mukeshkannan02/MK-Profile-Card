@@ -33,3 +33,20 @@ Welcome to **MK Profile Card**, a sleek and modern profile card project built to
 1. Clone the repository:
    ```bash
    git clone https://github.com/mukeshkannan02/mk-profile-card.git
+
+🎯 Goals
+This project is perfect for:
+
+Developers looking to practice responsive design.
+Personal portfolio highlights.
+Creating reusable and customizable profile card components.
+🚀 Deployment
+Hosted on Netlify for seamless deployment.
+🌐 Live Link: https://mk-profile-card.netlify.app/
+
+📬 Contact
+Feel free to reach out for suggestions, collaborations, or just to say hi!
+Email: kannanmukesh856@gmail.com
+GitHub: mukeshkannan02
+
+🌟 If you find this project useful, don't forget to ⭐ star the repository!
