@@ -47,6 +47,6 @@ Hosted on Netlify for seamless deployment.
 📬 Contact
 Feel free to reach out for suggestions, collaborations, or just to say hi!
 Email: kannanmukesh856@gmail.com
-GitHub: mukeshkannan02
+GitHub: https://github.com/mukeshkannan02
 
 🌟 If you find this project useful, don't forget to ⭐ star the repository!
